@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>지혁짱짱맨</h1>
+	고수
 </body>
 </html>
