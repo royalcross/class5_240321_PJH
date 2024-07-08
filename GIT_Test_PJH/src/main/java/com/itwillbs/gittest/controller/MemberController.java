@@ -6,7 +6,7 @@ import org.springframework.stereotype.Controller;
 public class MemberController {
 
 		
-	
+	// 잘못된 내용
 	
 	
 }
