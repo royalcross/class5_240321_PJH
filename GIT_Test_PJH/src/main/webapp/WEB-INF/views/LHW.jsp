@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>지혁짱짱맨</h1>
-	<!-- 김성윤 -->
+	<h1>해원씨</h1>
 </body>
 </html>
